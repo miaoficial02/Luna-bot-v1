@@ -23,7 +23,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
   }
 }
 
-handler.help = ['open / close', 'abrir / cerrar']
+handler.help = ['open', 'close']
 handler.tags = ['open', 'close']
 handler.command = ['open', 'close']
 handler.admin = true
