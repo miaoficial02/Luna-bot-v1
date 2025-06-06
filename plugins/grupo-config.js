@@ -8,8 +8,6 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     'close': 'announcement',
     'abrir': 'not_announcement',
     'cerrar': 'announcement',
-    'abierto': 'not_announcement',
-    'cerrado': 'announcement'
   }[(args[0] || '').toLowerCase()]
 
   if (isClose === undefined) {
