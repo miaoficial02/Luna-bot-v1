@@ -13,11 +13,11 @@ return conn.reply(m.chat, `${emoji} *Elija una opción para configurar el grupo*
 await conn.groupSettingUpdate(m.chat, isClose)
 
 if (isClose === 'not_announcement'){
-m.reply(`${emoji} *Ya pueden escribir en este grupo.*`)
+m.reply(`${emoji} *◉ Ahora todos los miembros pueden escribir en este grupo.♡*`)
 }
 
 if (isClose === 'announcement'){
-m.reply(`${emoji2} *Solos los admins pueden escribir en este grupo.*`)
+m.reply(`${emoji2} *Solo quienrd administran el grupo pueden escribir ahora.⚠︎*`)
 }}
 handler.help = ['group open / close', 'grupo abrir / cerrar']
 handler.tags = ['grupo']
