@@ -15,7 +15,7 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['584120346669', '⚜️ 𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
+  ['584120346669', '⚜️ ℭ𝔯𝔢𝔞𝔡𝔬𝔯 𝔐𝔦𝔞', true],
   ['5212441357601', '🌷 𝓔𝓶𝓶𝓪 𝓥𝓲𝓸𝓵𝓮𝓽𝓼 𝓥𝓮𝓻𝓼𝓲ó𝓷', true],
   ['50557865603',  'Niño Piña🍍', true],
   ['5216671548329', '🌹 𝓛𝓮𝓰𝓷𝓪', true],
@@ -61,7 +61,7 @@ global.welcom2 = 'Edita Con #setbye'
 global.imagen1 = fs.readFileSync('./src/menus/Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/anime.jpg');
 global.imagen3 = fs.readFileSync('./src/menus/Menu3.jpg');
-global.imagen4 = fs.readFileSync('./src/menus/Menu.jpg');
+global.imagen4 = fs.readFileSync('/storage/sdcard0/DCIM/Screenshots/');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./src/menus/Menu3.jpg');
 global.imagen7 = fs.readFileSync('./src/menus/Menu5.jpg');
@@ -97,16 +97,16 @@ ch3: '120363314192605628@newsletter',
 }
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/E78uEs2qJIE0apCLB7rSQZ' //Grupo Oficial De Yuki_Suou
-global.gp1 = 'https://chat.whatsapp.com/E78uEs2qJIE0apCLB7rSQZ' //Grupo 
-global.gp2 = 'https://chat.whatsapp.com/B6uCcLp85mG5Xls6QdzT4H'//
-global.comunidad1 = 'https://chat.whatsapp.com/B6uCcLp85mG5Xls6QdzT4H' //Comunidad Yuki_Suou
-global.channel = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029VavzewJLikg78gILRn1o' //Canal test
+global.gp4 = 'https://chat.whatsapp.com/CS3lv0SdzqCJZoYflz0EsM' //Grupo Oficial De Yuki_Suou
+global.gp1 = 'https://chat.whatsapp.com/Djfr1dUmxM4DkGbolG3qp4' //Grupo 
+global.gp2 = 'https://chat.whatsapp.com/CS3lv0SdzqCJZoYflz0EsM'//
+global.comunidad1 = 'https://chat.whatsapp.com/Djfr1dUmxM4DkGbolG3qp4' //Comunidad Yuki_Suou
+global.channel = 'https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z' //Canal Oficial
+global.channel2 = 'https://whatsapp.com/channel/0029Van1PcoFSAt50tWN4d0x' //Canal test
 global.yt = 'https://youtube.com/@user-the-king-destroy?si=8kNB8k2k3ESQ_J9j' //Canal De Youtube
 global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot' //Github Oficial
 global.correo = 'thekingdestroy507@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
+global.cn ='https://whatsapp.com/channel/0029Vb5zgsv5Ui2anW5Jhl0C';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
