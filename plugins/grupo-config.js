@@ -1,27 +1,33 @@
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-const pp = await conn.profilePictureUrl(m.chat, 'image').catch(_ => icono) 
-let isClose = { // Switch Case Like :v
-'open': 'not_announcement',
-'close': 'announcement',
-'abierto': 'not_announcement',
-'cerrado': 'announcement',
-'abrir': 'not_announcement',
-'cerrar': 'announcement',
-}[(args[0] || '')]
-if (isClose === undefined)
-return conn.reply(m.chat, `${emoji} *Elija una opción para configurar el grupo*\n\nEjemplo:\n*✰ #${command} abrir*\n*✰ #${command} cerrar*\n*✰ #${command} close*\n*✰ #${command} open*`, m)
-await conn.groupSettingUpdate(m.chat, isClose)
+  const emoji = '✅'
+  const emoji2 = '🔒'
+  const pp = await conn.profilePictureUrl(m.chat, 'image').catch(_ => null)
 
-if (isClose === 'not_announcement'){
-m.reply(`${emoji} *Ya pueden escribir en este grupo.*`)
+  let isClose = {
+    'open': 'not_announcement',
+    'close': 'announcement',
+    'abrir': 'not_announcement',
+    'cerrar': 'announcement',
+    'abierto': 'not_announcement',
+    'cerrado': 'announcement'
+  }[(args[0] || '').toLowerCase()]
+
+  if (isClose === undefined) {
+    return conn.reply(m.chat, `${emoji} *Elija una opción válida:*\n\n✰ *${usedPrefix + command} abrir*\n✰ *${usedPrefix + command} cerrar*\n✰ *${usedPrefix + command} open*\n✰ *${usedPrefix + command} close*`, m)
+  }
+
+  await conn.groupSettingUpdate(m.chat, isClose)
+
+  if (isClose === 'not_announcement') {
+    return m.reply(`${emoji} *Ya pueden escribir en este grupo.*`)
+  } else {
+    return m.reply(`${emoji2} *Solo los administradores pueden escribir en este grupo.*`)
+  }
 }
 
-if (isClose === 'announcement'){
-m.reply(`${emoji2} *Solos los admins pueden escribir en este grupo.*`)
-}}
 handler.help = ['group open / close', 'grupo abrir / cerrar']
 handler.tags = ['grupo']
-handler.command = ['group', 'grupo']
+handler.command = ['group', 'grupo', 'abrirgrupo', 'cerrargrupo']
 handler.admin = true
 handler.botAdmin = true
 
