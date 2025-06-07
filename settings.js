@@ -27,8 +27,7 @@ global.owner = [
 
 global.mods = []
 global.suittag = ['5492645739976'] 
-global.prems = []
-
+global.prems = ['5492645739976']
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.libreria = 'Baileys'
