@@ -41,13 +41,13 @@ let { say } = cfonts
 
 console.log(chalk.bold.redBright(`\n✰ Iniciando Yuki-Suou-Bot ✰\n`))
 
-say('YukiBot-MD', {
+say('𝘓𝘜𝘕𝘈-𝘉𝘖𝘛-𝘝1', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
 })
 
-say(`Developed By • The-King-Destroy`, {
+say(`Developed By • @its.mia.oficial`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
