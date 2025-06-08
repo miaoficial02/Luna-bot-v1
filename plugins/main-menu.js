@@ -8,10 +8,11 @@ let handler = async (m, { conn, args }) => {
     let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
     
     let txt = `
-Hola! Soy  *${botname}*  ٩(˘◡˘)۶
-Aquí tienes mi lista de comandos.♡
-╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
-│ᰔᩚ Cliente » @${userId.split('@')[0]}
+Hola!Estrellitas Soy  *${botname}*☆
+꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚
+『★•ᥲ𝗊ᥙі 𝗍іᥱᥒᥱs mі ᥣіs𝗍ᥲ ძᥱ ᥴ᥆mᥲᥒძ᥆s•★』
+╭⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽｡✰⋆｡:ﾟ･*☽
+┋ᰔ Cliente » @${userId.split('@')[0]}
 ┋❀ Modo » Publico
 ┋✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 🅑')}
 ┋ⴵ Activada » ${uptime}
@@ -19,8 +20,10 @@ Aquí tienes mi lista de comandos.♡
 ┋✧ Comandos » ${totalCommands}
 ┋🜸 Baileys » Multi Device
 ┋© owner: @its.mia.oficial
-╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
-Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
+╰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽｡✰⋆｡:ﾟ･*☽
+
+
+𝘊𝘳𝘦𝘢 𝘶𝘯 *𝘚𝘜𝘉-𝘉𝘖𝘛* 𝘤𝘰𝘯 𝘵𝘶 𝘯𝘶́𝘮𝘦𝘳𝘰 𝘶𝘵𝘪𝘭𝘪𝘻𝘢𝘯𝘥𝘰 *#qr* 𝘰 *#code*
 
 • :･ﾟ⊹˚• \`『 Info-Bot 』\` •˚⊹:･ﾟ•
 
