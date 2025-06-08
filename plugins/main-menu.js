@@ -11,7 +11,7 @@ let handler = async (m, { conn, args }) => {
 Hola!Estrellitas Soy  *${botname}*☆
 ꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚
 『★•ᥲ𝗊ᥙі 𝗍іᥱᥒᥱs mі ᥣіs𝗍ᥲ ძᥱ ᥴ᥆mᥲᥒძ᥆s•★』
-╭⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽｡✰⋆｡:ﾟ･*☽
+╭⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽･*☽
 ┋ᰔ Cliente » @${userId.split('@')[0]}
 ┋❀ Modo » Publico
 ┋✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 🅑')}
@@ -20,7 +20,7 @@ Hola!Estrellitas Soy  *${botname}*☆
 ┋✧ Comandos » ${totalCommands}
 ┋🜸 Baileys » Multi Device
 ┋© owner: @its.mia.oficial
-╰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽｡✰⋆｡:ﾟ･*☽
+╰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･｡:ﾟ･*☽
 
 
 𝘊𝘳𝘦𝘢 𝘶𝘯 *𝘚𝘜𝘉-𝘉𝘖𝘛* 𝘤𝘰𝘯 𝘵𝘶 𝘯𝘶́𝘮𝘦𝘳𝘰 𝘶𝘵𝘪𝘭𝘪𝘻𝘢𝘯𝘥𝘰 *#qr* 𝘰 *#code*
