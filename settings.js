@@ -46,7 +46,7 @@ global.botname = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷'
 global.wm = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷'
 global.author = 'Made By @its.mia.oficial'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ @its.mia.oficial'
-global.textbot = 'Yυƙι-Sυσυ-Bσƚ • Powered By @its.mia.oficial'
+global.textbot = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷 • Powered By @its.mia.oficial'
 global.etiqueta = '@its.mia.oficial'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -63,8 +63,8 @@ global.gp1 = 'https://chat.whatsapp.com/CS3lv0SdzqCJZoYflz0EsM'
 global.comunidad1 = 'https://chat.whatsapp.com/Djfr1dUmxM4DkGbolG3qp4'
 global.channel = 'https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z'
 global.channel2 = 'https://whatsapp.com/channel/0029Van1PcoFSAt50tWN4d0x'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
+global.md = 'https://github.com/miaoficial02/Luna-bot-v1'
+global.correo = 'itss.mia.oficial@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029Vb5zgsv5Ui2anW5Jhl0C';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
