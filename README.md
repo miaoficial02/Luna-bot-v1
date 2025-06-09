@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/miaoficial02/Luna-bot-v1 && cd Luna-bot-v1
 ```
 
 ```bash
@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd Luna-bot-v1
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -97,7 +97,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Yuki_Suou-Bot && nano settings.js
+    cd Luna-bot-v1 && nano settings.js
    ```
 
 </details>
@@ -165,7 +165,7 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 
 ### **`ᥫ᭡ Propietario`**
 <a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
+href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
 ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
 
 ### **`🜸 Créditos`**
