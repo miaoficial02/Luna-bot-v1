@@ -1,6 +1,6 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
+<h1 align="center">✦ 𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷✦</h1>
 
- <img src= "https://files.catbox.moe/g77xv3.jpg">
+ <img src= "https://files.catbox.moe/g77xv3.png">
     </p>
 
 ### **`❕️ Información importante`**
