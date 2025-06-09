@@ -108,9 +108,9 @@ npm start
 <details>
  <summary><b> 🜸 Enlaces Oficiales </b></summary>
 
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/CDw7hpI30WjCyKFAVLHNhZ)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa)
+ * Canal Oficial  [`¡Click aquí!`]('https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z)
+* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/CS3lv0SdzqCJZoYflz0EsM)
+* Canal Oficial 2 [`¡Click aquí!`](https://whatsapp.com/channel/0029Van1PcoFSAt50tWN4d0x)
 </details>
 
 <details>
