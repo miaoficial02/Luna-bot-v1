@@ -162,10 +162,10 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 <img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
 </a>
 
-### **`ᥫ᭡ Propietario`**
+### **`ᥫ᭡ Propietaria`**
 <a
 href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
+@𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥"/></a>
 
 ### **`🜸 Créditos`**
 <a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
