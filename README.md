@@ -2,6 +2,13 @@
 
  <img src= "https://files.catbox.moe/g77xv3.png">
     </p>
+🧠 Créditos
+
+Base original: The-King-Destroy
+
+Modificado por: miaoficial02
+
+Diseño y concepto de "Luna Bot": Inspirado en estética anime y automatización personalizada
 
 ### **`❕️ Información importante`**
 
