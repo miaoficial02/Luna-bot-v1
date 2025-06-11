@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FF0000&lines=𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨+𝐚𝐥+𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐝𝐞+👑𝐋𝐔𝐍𝐀-𝐁𝐎𝐓👑;𝐆𝐫𝐚𝐜𝐢𝐚𝐬+𝐩𝐨𝐫+𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐫𝐧𝐨𝐬+𝐂𝐫𝐞𝐚𝐝𝐨+𝐩𝐨𝐫+@𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥𒆜;👑+🌹)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FF0000&lines=𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨+𝐚𝐥+𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐝𝐞;👑𝐋𝐔𝐍𝐀-𝐁𝐎𝐓👑;𝐆𝐫𝐚𝐜𝐢𝐚𝐬+𝐩𝐨𝐫+𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐫𝐧𝐨𝐬:𝐂𝐫𝐞𝐚𝐝𝐨+𝐩𝐨𝐫+@𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥𒆜;👑+🌹)
 
 <h1 align="center">🌙𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷🌙</h1>
 
