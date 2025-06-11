@@ -40,12 +40,12 @@
 <a
 href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://qu.ax/finc.jpg" height="125px"></a> 
 
-### **`➮ Instalación por termux`**
+### **`🌹 Instalación por termux`**
 
 <details>
  <summary><b> ✎ Click para ver los Comandos </b></summary>
 
-### **❀ Instalación manual por termux**
+### **🌹 Instalación manual por termux**
 > Nota: Copie y pegue los comandos en termux uno por uno.
 ```bash
 termux-setup-storage
@@ -77,7 +77,7 @@ npm start
 
 > Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
 
-### **🜸 Activar en caso de detenerse en termux**
+### **🌹 Activar en caso de detenerse en termux🌹**
 
 > Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
 
@@ -93,7 +93,7 @@ npm start
     npm start
    ```
 
-### **✰ Volverte owner del Bot**
+### **💫 Volverte owner del Bot**
 
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
@@ -104,7 +104,7 @@ npm start
 </details>
 
 ---
-### **`➮ Enlaces útiles`**
+### **`🌙 Enlaces útiles`**
 
 <details>
  <summary><b> 🜸 Enlaces Oficiales </b></summary>
@@ -123,7 +123,7 @@ npm start
 
 ---
 
-### **`ᥫ᭡ Propietaria`**
+### **`♡Propietaria♡`**
 <a
 href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
 @𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥"/></a>
