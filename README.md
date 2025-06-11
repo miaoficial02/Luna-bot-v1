@@ -4,7 +4,9 @@
 
  <img src= "https://files.catbox.moe/g77xv3.png">
     </p>
+## 🧠 Nota
 
+Este bot se encuentra en constante desarrollo. Puedes usarlo, editarlo o mejorarlo libremente bajo tu responsabilidad.
 
 ### **`❗ Información importante❗`**
 
