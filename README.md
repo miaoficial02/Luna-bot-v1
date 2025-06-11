@@ -4,7 +4,7 @@
 
  <img src= "https://files.catbox.moe/g77xv3.png">
     </p>
-### **`🧠 𝐍𝐎𝐓𝐀`**
+`🧠 𝐍𝐎𝐓𝐀`
 
 Este bot se encuentra en constante desarrollo. Puedes usarlo, editarlo o mejorarlo libremente bajo tu responsabilidad.
 
