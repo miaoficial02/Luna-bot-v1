@@ -2,11 +2,6 @@
 
  <img src= "https://files.catbox.moe/g77xv3.png">
     </p>
-🧠 Créditos
-
-Base original:https://github.com/The-King-Destroy
-
-Modificado por: https://github.com/miaoficial02
 
 
 ### **`❕️ Información importante`**
