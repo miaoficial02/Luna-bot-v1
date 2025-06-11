@@ -4,9 +4,9 @@
     </p>
 🧠 Créditos
 
-Base original: The-King-Destroy
+Base original:https://github.com/The-King-Destroy
 
-Modificado por: miaoficial02
+Modificado por: https://github.com/miaoficial02
 
 Diseño y concepto de "Luna Bot": Inspirado en estética anime y automatización personalizada
 
