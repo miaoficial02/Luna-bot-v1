@@ -1,3 +1,6 @@
+![Luna Bot](https://github.com/miaoficial02/LunaBot/raw/main/textAnim1749616833296.gif)
+
+
 <h1 align="center">✦ 𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷✦</h1>
 
  <img src= "https://files.catbox.moe/g77xv3.png">
