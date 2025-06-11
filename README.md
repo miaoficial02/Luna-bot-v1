@@ -123,55 +123,7 @@ npm start
 
 ---
 
-### **`✧ SKY-ULTRA-PLUS ✧`**
-
-<a
-href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
-
-<details>
- <summary><b> ❒ Servidor Sky-Ultra-Plus</b></summary>
-
-* Dashboard : [`Dash`](https://dash.skyultraplus.com)
-* Panel : [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp : [`Canal Sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad : [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto : [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-
-</details>
-
----
-
-### **`✦ AKIRAX ✦`**
-
-<a
-href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
-
-<details>
- <summary><b> ❒ Servidor Akirax</b></summary>
-
-* Dashboard : [`Dash`](https://home.akirax.net)
-* Panel : [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
-
-</details>
-
----
-
-### **`❀ Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
-
 ### **`ᥫ᭡ Propietaria`**
 <a
 href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
 @𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥"/></a>
-
-### **`🜸 Créditos`**
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/BrunoSobrino" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="Bruno Ofc" style="border-radius: 50%;"/>
-</a>
