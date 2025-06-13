@@ -357,9 +357,9 @@ Hola! Estrellitas Soy  *${botname}*☆
 > ✧ Mencionar a los admins para solicitar ayuda.
 *❀⃞̶ׂ֟፝͞🌟 ╌֟፝╼ #restablecer ✦ #revoke*
 > ✧ Restablecer el enlace del grupo.
-*❀⃞̶ׂ֟፝͞🌟 ╌֟፝╼ #open
+*❀⃞̶ׂ֟፝͞🌟 ╌֟፝╼ #open*
 > ✧ Cambia ajustes del grupo para que todos los usuarios envien mensaje.
-*❀⃞̶ׂ֟፝͞🌟 ╌֟፝╼ #close
+*❀⃞̶ׂ֟፝͞🌟 ╌֟፝╼ #close*
 > ✧ Cambia ajustes del grupo para que solo los administradores envien mensaje.
 *❀⃞̶ׂ֟፝͞🌟 ╌֟፝╼ #kick* [número / mension]
 > ✧ Elimina un usuario de un grupo.
