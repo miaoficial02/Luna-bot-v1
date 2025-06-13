@@ -1,24 +1,30 @@
-let handler = async (m, { conn, command, isAdmin, isBotAdmin, isGroup }) => {
-  if (!isGroup) return m.reply('❌ Este comando solo funciona en grupos.')
-  if (!isAdmin) return m.reply('❌ Solo los administradores pueden usar este comando.')
-  if (!isBotAdmin) return m.reply('❌ El bot necesita ser administrador para hacer esto.')
-
-  if (command === 'open') {
-    await conn.groupSettingUpdate(m.chat, 'not_announcement')
-    await conn.sendMessage(m.chat, { react: { text: '✅', key: m.key }})
+const handler = async (m, { conn, command, participants }) => {
+  if (!m.isGroup) {
+    return m.reply('Este comando solo puede usarse en grupos.');
   }
 
-  if (command === 'close') {
-    await conn.groupSettingUpdate(m.chat, 'announcement')
-    await conn.sendMessage(m.chat, { react: { text: '✅', key: m.key }})
+  const botAdmin = await conn.groupMetadata(m.chat).then(res => 
+    res.participants.find(p => p.id === conn.user.jid)?.admin
+  );
+
+  if (!botAdmin) {
+    return m.reply('Necesito ser administrador para ejecutar este comando.');
   }
-}
 
-handler.help = ['open', 'close']
-handler.tags = ['group']
-handler.command = ['open', 'close']
-handler.group = true
-handler.botAdmin = true
-handler.admin = true
+  const action = command === 'open' ? 'not_announcement' : 'announcement';
 
-export default handler
+  await conn.groupSettingUpdate(m.chat, action);
+
+  const msg = command === 'open'
+    ? '✅ El grupo ha sido *abierto*. Ahora todos pueden escribir.'
+    : '❌ El grupo ha sido *cerrado*. Solo los admins pueden escribir.';
+
+  await conn.sendMessage(m.chat, { text: msg }, { quoted: m });
+};
+
+handler.command = ['open', 'close'];
+handler.group = true;
+handler.admin = true;
+handler.botAdmin = true;
+
+export default handler;
