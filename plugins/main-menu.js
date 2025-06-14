@@ -612,8 +612,8 @@ Hola! Estrellitas Soy  *${botname}*☆
           mentionedJid: [m.sender, userId],
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-              newsletterJid: "120363099999999999@g.us",
-              newsletterName: " 𝐶𝑎𝑛𝑎𝑙 𝑜𝑓𝑖𝑐𝑖𝑎𝑙 𝐿𝑢𝑛𝑎-𝑏𝑜𝑡",
+              newsletterJid: "120363401685685396@g.us",
+              newsletterName: "𝐿𝑈𝑁𝐴-𝐵𝑂𝑇",
               serverMessageId: -1,
           },
           forwardingScore: 999,
