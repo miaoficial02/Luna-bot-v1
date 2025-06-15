@@ -607,21 +607,25 @@ Hola! Estrellitas Soy  *${botname}*☆
 ⌢꫶໋⏝ꨪᰰᰰ꫶᜔〪︶፝֟ᮬ᮫᳘⏝꫶ּ〪۪〫𝆬⋱ํ⋯໋⋰᜔ໍ⏝᜔𝆬⋱ํ⋯໋⋰ּ۪ໍ⏝᳘〫֟፝ᮬ〪︶ꨪᰰᰰ᜔꫶⏝〪⌢꫶`.trim()
 
   await conn.sendMessage(m.chat, { 
-    text: txt,
+text: txt,
 contextInfo: {
-  mentionedJid: [m.sender, userId],
-  isForwarded: true,
-  forwardingScore: 999,
-  externalAdReply: {
-    title: "𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷",
-    body: textbot,
-    thumbnailUrl: "https://files.catbox.moe/c50p2m.jpg",
-    sourceUrl: "https://chat.whatsapp.com/CS3lv0SdzqCJZoYflz0EsM", // <== LINK DEL GRUPO AQUÍ
-    mediaType: 1,
-    showAdAttribution: true,
-    renderLargerThumbnail: true,
-  },
-},},
+mentionedJid: [m.sender, userId],
+isForwarded: true,
+forwardedNewsletterMessageInfo: {
+newsletterJid: "120363401685685396@g.us",
+newsletterName: "𝐿𝑈𝑁𝐴-𝐵𝑂𝑇",
+serverMessageId: -1,
+},
+forwardingScore: 999,
+externalAdReply: {
+title: "𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷",
+body: textbot,
+thumbnailUrl: "https://files.catbox.moe/c50p2m.jpg",
+sourceUrl: " 'https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z",
+mediaType: 1,
+showAdAttribution: true,
+renderLargerThumbnail: true,
+},
       },
   }, { quoted: m })
 
