@@ -19,8 +19,6 @@ Hola! Estrellitas Soy  *${botname}*☆
 ┋✰ Usuarios » ${totalreg}
 ┋✧ Comandos » ${totalCommands}
 ┋🜸 Baileys » Multi Device
-┋© owner: @its.mia.oficial
-┇◉ https://Wa.me/+542644131963
 ╰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･｡:ﾟﾟ･
 ⌬ Crea un Sub-Bot utilizando tu número con *#qr* o *#code*
 
