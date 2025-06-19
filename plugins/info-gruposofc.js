@@ -4,17 +4,17 @@ let handler  = async (m, { conn, usedPrefix, command }) => {
 
 let grupos = `*Hola!, te invito a unirte a los grupos oficiales del Bot para convivir con la comunidad.....*
 
-⏤͟͟͞͞LUNA-BOT GRUPO OFICIAL
+*⏤͟͟͟͟͞͞͞͞𝐿𝑈𝑁𝐴-𝐵𝑂𝑇 𝐺𝑅𝑈𝑃𝑂 𝑂𝐹𝐼𝐶𝐼𝐴𝐿*
 > *♡* ${gp1}
 
-⏤͟͟͞͞LUNA-BOT GRUPO SUB-BOT OFICIAL
+*⏤͟͟͟͟͞͞͞͞𝐿𝑈𝑁𝐴-𝐵𝑂𝑇 𝐺𝑅𝑈𝑃𝑂 𝑂𝐹𝐼𝐶𝐼𝐴𝐿 𝑆𝑈𝐵-𝐵𝑂𝑇*
 > *♡* ${comunidad1}
 
 *ׄ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ*
 
 ⚘ Enlace anulado? entre aquí! 
 
-⏤͟͟͞͞LUNA-BOT CANAL OFICIAL
+*⏤͟͟͟͟͞͞͞͞𝐿𝑈𝑁𝐴-𝐵𝑂𝑇 𝐶𝐴𝑁𝐴𝐿 𝑂𝐹𝐼𝐶𝐼𝐴𝐿*
 > *♡* ${channel}
 
 > ${dev}`
