@@ -1,14 +1,14 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
 let img = './src/catalogo.jpg'
 let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
-✰ *Dueño* ${creador}
+✰ *Dueño:* Wa.me/5492644131963
 ✦ *Bot:* ${botname}
 ⚘ *Versión:* ${vs}
 ❖ *Libreria:* ${libreria} ${baileys}
 
 ❍ *Creador:*
 
-ᰔᩚ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜
+⏤͟͟͞͞♡ @𝑖𝑡𝑠.𝑚𝑖𝑎.𝑜𝑓𝑖𝑐𝑖𝑎𝑙
 > 🜸 Rol » *Creador*
 > ✧ GitHub » https://github.com/The-King-Destroy
 
