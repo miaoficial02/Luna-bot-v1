@@ -16,8 +16,8 @@ const handler = async (m, { conn, command, participants }) => {
   await conn.groupSettingUpdate(m.chat, action);
 
   const msg = command === 'open'
-    ? '✅ El grupo ha sido *abierto*. Ahora todos pueden escribir.'
-    : '❌ El grupo ha sido *cerrado*. Solo los admins pueden escribir.';
+    ? '✅🔓'
+    : '✅🔒';
 
   await conn.sendMessage(m.chat, { text: msg }, { quoted: m });
 };
