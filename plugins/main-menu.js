@@ -14,7 +14,7 @@ Hola! Estrellitas Soy  *${botname}*☆
 ╭── ── ──𓆩۟♱𝅮۟𓆪─── ── ──
 ┋ᰔ Cliente » @${userId.split('@')[0]}
 ┋❀ Modo » Publico
-┋✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 🅑')}
+┋✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Sub Bot 🅑')}
 ┋ⴵ Activada » ${uptime}
 ┋✰ Usuarios » ${totalreg}
 ┋✧ Comandos » ${totalCommands}
