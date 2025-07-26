@@ -5,8 +5,8 @@
  <img src= "https://files.catbox.moe/g77xv3.png">
     </p>
 🧠 𝐍𝐎𝐓𝐀:
+ESTE REPOSITORIO YA NO RECIBE ACTUALIZACIÓNES POR LO TANTO QUEDA EN TUS MANOS SI LO INSTALAS O NO, NO TE GARANTIZÓ QUE FUNCIONE CORRECTAMENTE. 
 
-Este bot se encuentra en constante desarrollo. Puedes usarlo, editarlo o mejorarlo libremente bajo tu responsabilidad.
 
 ### **`❗ Información importante❗`**
 
